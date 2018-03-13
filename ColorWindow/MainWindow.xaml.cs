@@ -23,6 +23,7 @@ namespace ColorWindow
         public MainWindow()
         {
             InitializeComponent();
+
         }
     }
 }
